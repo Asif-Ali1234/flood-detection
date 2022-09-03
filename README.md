@@ -1,2 +1,2 @@
 # flood-detection
-Detecting Flood IOT sensors and NODEMCU
+Detecting Flood using IOT sensors and NODEMCU
